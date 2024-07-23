@@ -1,0 +1,8 @@
+{
+  "shipmentDetails": "Shipment Details",
+  "referenceNumber": "Reference Number",
+  "currentStatus": "Current Status",
+  "deliveryDate": "Delivery Date",
+  "sender": "Sender",
+  "receiver": "Receiver"
+}
